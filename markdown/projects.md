@@ -17,6 +17,7 @@
 <a href="https://www.openstack.org/software/releases/pike/components/aodh/">
     <img alt="OpenStack Aodh"
         src="images/mascots/aodh.png"
+        width="50%"
         />
 </a>
 
