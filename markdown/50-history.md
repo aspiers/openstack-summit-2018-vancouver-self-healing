@@ -36,10 +36,6 @@
 <img alt="" data-src="images/scope.png"/>
 
 
-<!-- .slide: data-state="blank-slide" class="full-screen" id="scope-poll" data-menu-title="Deciding SIG scope" data-timing="10s" -->
-<img alt="" data-src="images/scope.png"/>
-
-
 <!-- .slide: data-state="blank-slide" class="full-screen" id="name-poll" data-menu-title="Deciding the SIG's name" data-timing="10s" -->
 <img alt="" data-src="images/name.png"/>
 
