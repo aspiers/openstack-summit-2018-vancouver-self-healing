@@ -9,5 +9,9 @@
     templates for use cases and specs
 *   Compile a [list of contact info for self-healing stakeholders](https://etherpad.openstack.org/p/self-healing-contacts)
 *   Start to visualize the architectural integration points between involved projects.
-*   Start to document use cases and write specs for proposed work.
+*   Start to document use cases
+*   Write specs for proposed work
+
+All work is tracked in StoryBoard:
+
 *   https://storyboard.openstack.org/#!/project/917
