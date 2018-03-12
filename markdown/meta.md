@@ -8,11 +8,11 @@
 *   Press `?` for help on navigating these slides
 *   Press `m` for a slide menu
 *   Press `s` for speaker notes <br />
-*   Here is the [original session abstract and details](https://link/to/session/details)
+*   Here are the [details of the original event](https://www.meetup.com/Openstack-London/events/247958746/)
 
 
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
 
 <div class="qrcode" id="qrcode-talk"/>
-<h2><a href="https://example.com/link/to/this/talk" target="_blank"
-       id="talk">https://example.com/link/to/this/talk</a></h2>
+<h2><a href="https://aspiers.github.io/openstack-meetup-london-march-2017-self-healing/" target="_blank"
+       id="talk">https://goo.gl/Jqeoaz/</a></h2>
