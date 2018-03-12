@@ -4,7 +4,7 @@
 
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="keep-calm" data-menu-title="Keep Calm" data-timing="40" -->
-<img alt="Keep Calm, It Just Works" src="images/keep-calm-it-just-works.jpg" />
+<img alt="Keep Calm, It Just Works" data-src="images/keep-calm-it-just-works.jpg" />
 
 Note:
 Who has ever thought this about OpenStack?
