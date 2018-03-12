@@ -55,8 +55,8 @@
 </div>
 
 
-<!-- .slide: data-state="section-break" data-menu-title="Q & A" id="Q-and-A" -->
-# Questions?
+<!-- .slide: data-state="section-break" data-menu-title="" id="discussion" -->
+# Discussion
 
 
 <!-- .slide: data-menu-title="SUSE logo" id="SUSE-logo" data-state="green-bg" -->
