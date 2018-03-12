@@ -51,8 +51,8 @@ The lines between hard / soft failures, and between recovery /
 optimisation are somewhat blurred.
 
 
-<!-- .slide: data-state="normal" id="use-case-1" data-menu-title="Example use case #1" data-timing="40" -->
-# Example self-healing use case #1
+<!-- .slide: data-state="normal" id="use-case-1" data-menu-title="Use case #1" data-timing="40" -->
+# Use case #1: proactive healing of soft fault
 
 As a cloud operator, I want to ensure that guest workloads
 have sufficient network performance, and do not negatively
@@ -65,8 +65,8 @@ impact their neighbour workloads.
     live-migrate VMs to another host
 
 
-<!-- .slide: data-state="normal" id="use-case-1a" data-menu-title="Example use case #2" data-timing="40" -->
-# Example self-healing use case #1a
+<!-- .slide: data-state="normal" id="use-case-2" data-menu-title="Use case #2" data-timing="40" -->
+# Use case #2: proactive healing of hard fault
 
 As a cloud operator, I want to ensure that guest workloads
 have sufficient network performance, and do not negatively
@@ -76,3 +76,24 @@ impact their neighbour workloads.
 *   If host exceeds threshold set in policy, <br/>
     *taking health of bonded NICs into account*, <br/>
     live-migrate VMs to another host
+*   If one half of bond fails, bonding mode may mean
+    capacity is halved.
+
+
+<!-- .slide: data-state="normal" id="use-case-3" data-menu-title="Use case #3" data-timing="40" -->
+# Use case #3: reactive healing of hard fault
+
+As a cloud operator, I want to ensure that guest workloads
+can be recovered if there is a total failure of network
+connectivity on the underlying host.
+
+*   <!-- .element: class="fragment" -->
+    Monitor data-plane network interfaces on compute nodes
+*   <!-- .element: class="fragment" -->
+    If host loses connectivity, <br/>
+    live-migrate VMs to another host
+
+### Already implemented and demonstrated in Sydney! <!-- .element: class="fragment" -->
+
+*   <!-- .element: class="fragment" -->
+    [Advanced Fault Management with Vitrage and Mistral](https://www.openstack.org/videos/sydney-2017/advanced-fault-management-with-vitrage-and-mistral)
