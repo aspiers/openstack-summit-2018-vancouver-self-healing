@@ -49,6 +49,10 @@
 <!-- .slide: data-state="section-break" id="masakari" data-menu-title="Masakari" data-timing="40" -->
 # Masakari (compute HA)
 
+Note:
+
+Doesn't have a mascot yet.
+
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="freezer" data-menu-title="Freezer" data-timing="40" -->
 <a href="https://www.openstack.org/software/releases/pike/components/freezer/">
