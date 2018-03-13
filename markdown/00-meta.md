@@ -14,5 +14,5 @@
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
 
 <div class="qrcode" id="qrcode-talk"/>
-<h2><a href="https://aspiers.github.io/openstack-meetup-london-march-2017-self-healing/" target="_blank"
-       id="talk">https://goo.gl/Jqeoaz/</a></h2>
+<h2><a href="https://aspiers.github.io/openstack-meetup-london-march-2018-self-healing/" target="_blank"
+       id="talk">https://goo.gl/Vk6rC9/</a></h2>

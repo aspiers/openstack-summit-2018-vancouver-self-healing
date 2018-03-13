@@ -13,7 +13,7 @@ Hakim El-Hattab and contributors) as the underlying presentation
 technology.
 
 **You can
-[view the slides online](http://aspiers.github.io/openstack-meetup-london-march-2017-self-healing/)
+[view the slides online](http://aspiers.github.io/openstack-meetup-london-march-2018-self-healing/)
 here**; press `Space` to advance 1 slide at a time, or `?` for help.
 
 ## How to use
@@ -27,6 +27,6 @@ also find me on Freenode IRC as `aspiers`.
 
 Also, if you notice any areas for improvement, please submit issues
 and pull requests via
-[this repository](https://github.com/aspiers/openstack-meetup-london-march-2017-self-healing/).
+[this repository](https://github.com/aspiers/openstack-meetup-london-march-2018-self-healing/).
 
 Thanks!
