@@ -1,4 +1,4 @@
-<!-- .slide: data-state="cover" id="cover-page" data-menu-title="Introduction" data-timing="40" -->
+<!-- .slide: data-state="cover" id="cover-page" data-menu-title="Introduction" data-timing="20" -->
 <div class="title">
     <h1>OpenStack's Self-healing SIG</h1>
     <h2 style="margin-bottom: 50px;">A quick introduction</h2>
@@ -18,12 +18,12 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-timing="40" -->
+<!-- .slide: data-state="normal" id="agenda" data-timing="30" -->
 # Agenda
 
 *   OpenStack SIGs
 *   Self-healing as a concept
 *   Relevant OpenStack projects
-*   History of the SIG
-*   Future work
-*   Discussion
+*   Challenges faced
+*   Recent and future work
+*   Get involved!

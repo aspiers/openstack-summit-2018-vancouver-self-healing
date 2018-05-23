@@ -1,3 +1,22 @@
+<!-- .slide: data-state="normal" id="BoF" data-menu-title="Vancouver BoF session" -->
+<div class="call-to-action">
+    <h2 class="inside">
+        <p>
+            Please come to [the Birds of a Feather session](https://www.openstack.org/summit/vancouver-2018/summit-schedule/events/21830/self-healing-sig-bof)
+            tomorrow and provide feedback!
+        </p>
+        <p>
+            Thursday, May 24, 1:50pm - 2:30pm <br />
+            Room 217
+        </p>
+    </h2>
+</div>
+
+Note:
+
+We urgently need real-world experience from operators.
+
+
 <!-- .slide: data-state="normal" id="IRC" data-menu-title="IRC channel" -->
 <div class="call-to-action">
     <h2 class="inside">
@@ -36,27 +55,6 @@
         </p>
     </h2>
 </div>
-
-
-<!-- .slide: data-state="normal" id="feedback" data-menu-title="Feedback" -->
-<div class="call-to-action">
-    <h2 class="inside">
-        <p>
-            Please provide feedback!
-            We urgently need real-world experience from operators.
-        </p>
-        <ul>
-            <li> https://etherpad.openstack.org/p/london-meetup-march-2018
-        </ul>
-    </h2>
-    <h2 class="outside">
-        Thank you.
-    </h2>
-</div>
-
-
-<!-- .slide: data-state="section-break" data-menu-title="" id="discussion" -->
-# Discussion
 
 
 <!-- .slide: data-menu-title="SUSE logo" id="SUSE-logo" data-state="green-bg" -->
