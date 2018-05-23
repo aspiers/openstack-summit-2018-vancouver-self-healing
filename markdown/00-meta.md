@@ -15,4 +15,4 @@
 
 <div class="qrcode" id="qrcode-talk"/>
 <h2><a href="https://aspiers.github.io/openstack-summit-2018-vancouver-self-healing/" target="_blank"
-       id="talk">https://goo.gl/FIXME/</a></h2>
+       id="talk">https://goo.gl/7qU4ZM/</a></h2>
