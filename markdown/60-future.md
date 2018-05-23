@@ -5,6 +5,7 @@
 <!-- .slide: data-state="normal" id="next-steps" data-menu-title="" data-timing="40" -->
 # Next steps
 
+https://www.openstack.org/summit/vancouver-2018/summit-schedule/events/21830/self-healing-sig-bof
 *   Populate [`self-healing-sig` repo](https://git.openstack.org/cgit/openstack/self-healing-sig)
     templates for use cases and specs
 *   Compile a [list of contact info for self-healing stakeholders](https://etherpad.openstack.org/p/self-healing-contacts)

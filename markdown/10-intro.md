@@ -4,7 +4,7 @@
     <h2 style="margin-bottom: 50px;">A quick introduction</h2>
     <h3>
         <a href="https://www.meetup.com/Openstack-London/events/247958746/">
-            London OpenStack Meetup, Monday 12<sup>th</sup> March 2018
+            OpenStack Summit, Vancouver, Wednesday 23<sup>rd</sup> May 2018
         </a>
     </h3>
 </div>

@@ -35,8 +35,8 @@ HA typically means
 
 *   <!-- .element: class="fragment" -->
     Automatic detection of sub-optimal states
-    *   "hard" failures
-    *   "soft" failures / degradation
+    *   "hard" failures (e.g. NIC failure)
+    *   "soft" failures / degradation (e.g. exceeds CPU / RAM threshold)
 *   <!-- .element: class="fragment" -->
     Can be proactive as well as reactive
 *   <!-- .element: class="fragment" -->
